@@ -33,6 +33,7 @@ Possible causes include:
 - Different PS2 tolerances
 
 For this reason, I recommend trying the **original models first**. If you experience the same issues, these modified versions may be helpful.
+For a fully reversible installation, I recommend using the screw-mounted version instead of the super glue version whenever possible.
 
 # PS2-Disk-Saver
 
